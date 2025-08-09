@@ -4,7 +4,9 @@
 - I have extensive experience with Data Structures & Algorithms, having solved 1500+ questions on Leetcode and having worked as Heuristic Algorithm Developer in my previous company- Optym, Inc.
 - I am currently upskilling myself in other facets of software engineering and showcasing them through small projects on Github.
 - You can connect with me on LinkedIn [here](https://www.linkedin.com/in/bhuvnesh-bhuwan-267b3699/)
-
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/b63b58ab-bd71-4812-a3d2-aa82d2bc4c18/thumbnail" >
+</p>
 <!--
 **PaleBlueDot1990/PaleBlueDot1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
