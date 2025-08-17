@@ -2,7 +2,7 @@
 
 - I am currently working in Google, Hyderabad.
 - I have extensive experience with Data Structures & Algorithms, having solved 1500+ questions on Leetcode and having worked as Heuristic Algorithm Developer in my previous company- Optym, Inc.
-- I am currently upskilling myself in other facets of software engineering and showcasing them through small projects on Github.
+- I am currently upskilling myself in the domain of software engineering and documenting my learning through small projects on Github.
 - You can connect with me on LinkedIn [here](https://www.linkedin.com/in/bhuvnesh-bhuwan-267b3699/)
 <!--
 **PaleBlueDot1990/PaleBlueDot1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
